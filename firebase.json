@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site": "flutterweb-cicd",
     "public": "build/web",
     "ignore": [
       "firebase.json",
